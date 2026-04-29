@@ -1,63 +1,82 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Rishi!+👋;Welcome+to+my+GitHub!+🚀;I+build+cool+things.+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+turn+coffee+into+bugs...;I+mean+code.+☕;Professional+Googler.+🔍;Local+Main+Branch+Terrorist.+🚩;Welcome+to+my+digital+basement.+🏠" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHdwZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxJnB2PTE/3o7TKMGpxx32LpTOf6/giphy.gif" width="250" alt="Frustrated Coding">
   <br/>
-  <a href="https://github.com/Rishi-Rahul">
-    <img src="https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
 
-### 👨‍💻 About Me & My Work
+### 🕵️‍♂️ Files on the Suspect
 
-I'm a passionate developer who loves solving problems, building creative applications, and bringing ideas to life through code. Whether I'm building out AI scripts, creating web apps, or diving into game development, I'm always eager to learn something new!
+I’m Rishi. I build things that sometimes work, and when they don't, I blame the API. I live at the intersection of "Why is this broken?" and "Oh, I forgot a semicolon."
+
+- 🔭 **Current Mission:** Making **Social-Spark** and **SparxSolver** sentient (hopefully they don't start with the 'Terminator' stuff).
+- 🌱 **Learning:** How to write code that my future self doesn't want to punch me for.
+- 🎮 **Game Dev:** I build stuff in **Roblox** and **Scratch**. If the physics are weird, it's a "feature," not a bug.
+- ⚡ **Fun Fact:** My GitHub streak is the only thing more unstable than my sleep schedule.
+
+---
+
+### 🛠️ The Toolkit (How I break things)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+---
+
+### 📊 My "Productivity" (Exaggerated for clout)
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <ul>
-        <li>🔭 Currently working on: <b>Social-Spark</b> & <b>SparxSolver</b></li>
-        <li>🌱 Exploring deeper into: <b>Python, TypeScript, & Computer Vision (SolarVision!)</b></li>
-        <li>🎮 Enjoy developing in: <b>Roblox Studio, Scratch, & MIT App Inventor</b></li>
-        <li>⚡ Fun fact: <b>I love building AI tools tailored for "people like me"!</b></li>
-      </ul>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Rahul&show_icons=true&theme=radical&hide_border=true" alt="Rishi's Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Rahul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rishi's GitHub Stats" />
+    <td align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Rahul&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git" alt="Tech Stack Icons" />
-  </a>
-</p>
-
----
-
-### 🏆 Highlighted Projects
+### 🏆 Hall of Fame (Or Shame)
 
 <div align="center">
   <a href="https://github.com/Rishi-Rahul/social_spark1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=social_spark1&theme=tokyonight&hide_border=true" alt="Social Spark 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=social_spark1&theme=radical&hide_border=true" alt="Social Spark 1" />
   </a>
   <a href="https://github.com/Rishi-Rahul/SparxSolver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=SparxSolver&theme=tokyonight&hide_border=true" alt="SparxSolver" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=SparxSolver&theme=radical&hide_border=true" alt="SparxSolver" />
   </a>
 </div>
 
 <br/>
 
 ---
+
+### 🐍 The Only Snake I Trust
+
+<p align="left">Actual footage of me trying to find the bug in my CSS:</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer&text=Don't%20forget%20to%20Star!%20⭐&fontSize=20" />
+</p>
 
 <div align="center">
   <picture>
