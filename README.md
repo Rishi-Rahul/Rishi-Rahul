@@ -59,25 +59,6 @@ I’m Rishi. I build things that sometimes work, and when they don't, I blame th
 
 <br/>
 
----
-
-### 🐍 The Only Snake I Trust
-
-<p align="left">Actual footage of me trying to find the bug in my CSS:</p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer&text=Don't%20forget%20to%20Star!%20⭐&fontSize=20" />
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
