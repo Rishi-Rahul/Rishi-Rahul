@@ -59,16 +59,11 @@ I'm a passionate developer who loves solving problems, building creative applica
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</p>
