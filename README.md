@@ -1,79 +1,30 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+turn+coffee+into+bugs...;I+mean+code.+☕;Professional+Googler.+🔍;Local+Main+Branch+Terrorist.+🚩;Welcome+to+my+digital+basement.+🏠" alt="Typing SVG" />
-</h1>
+# Hi, I'm Rishi 👋 (please don't leave)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHdwZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxJnB2PTE/3o7TKMGpxx32LpTOf6/giphy.gif" width="250" alt="Frustrated Coding">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square" alt="Profile Views" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=Half+logic%2C+half+luck.+100%25+my+problem.+💀;I+turn+coffee+into+bugs.+☕+→+🐛;70+repos.+4+of+them+work.+Allegedly.;Professional+Googler+since+birth.+🔍;My+code+works.+I+don't+know+why.+Don't+touch+it.;Stack+Overflow+is+just+my+second+brain.+🧠;It+compiles%3F+Ship+it.+🚀;The+bug+is+a+feature.+I+decided+just+now.)](https://git.io/typing-svg)
 
-<br/>
-
-### 🕵️‍♂️ Files on the Suspect
-
-I’m Rishi. I build things that sometimes work, and when they don't, I blame the API. I live at the intersection of "Why is this broken?" and "Oh, I forgot a semicolon."
-
-- 🔭 **Current Mission:** Making **Social-Spark** and **SparxSolver** sentient (hopefully they don't start with the 'Terminator' stuff).
-- 🌱 **Learning:** How to write code that my future self doesn't want to punch me for.
-- 🎮 **Game Dev:** I build stuff in **Roblox** and **Scratch**. If the physics are weird, it's a "feature," not a bug.
-- ⚡ **Fun Fact:** My GitHub streak is the only thing more unstable than my sleep schedule.
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square)
 
 ---
 
-### 🛠️ The Toolkit (How I break things)
+I build things that *sometimes* work. When they don't, I blame the API. I have 70 repositories and the audacity to call myself productive.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
+- 🔭 Working on **Social-Spark** & **SparxSolver** *(and 5 other things I shouldn't have started)*
+- 🎮 Game dev on **Roblox** & **Scratch** — the bugs are features, trust me
+- 📍 Dubai 🇦🇪 — hotter than my unhandled exceptions
 
----
-
-### 📊 My "Productivity" (Exaggerated for clout)
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Rahul&show_icons=true&theme=radical&hide_border=true" alt="Rishi's Stats" />
-    </td>
-    <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Rahul&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+[![Tech Stack](https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 🏆 Hall of Fame (Or Shame)
+```python
+while alive:
+    code()
+    blame_the_api()
+    push_to_main_directly()  # 😈
+```
 
-<div align="center">
-  <a href="https://github.com/Rishi-Rahul/social_spark1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=social_spark1&theme=radical&hide_border=true" alt="Social Spark 1" />
-  </a>
-  <a href="https://github.com/Rishi-Rahul/SparxSolver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=SparxSolver&theme=radical&hide_border=true" alt="SparxSolver" />
-  </a>
-</div>
-
-<br/>
+> *"It works on my machine."* — Me, always.
 
 ---
 
-### 🐍 The Only Snake I Trust
-
-<p align="left">Actual footage of me trying to find the bug in my CSS:</p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishi-Rahul/Rishi-Rahul/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer&text=Don't%20forget%20to%20Star!%20⭐&fontSize=20" />
-</p>
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
