@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋 (please don't leave)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Half+logic%2C+half+luck.+100%25+my+problem.;I+turn+coffee+into+bugs.+%E2%98%95;70+repos.+Maybe+4+are+finished.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=Half+logic%2C+half+luck.+100%25+my+problem.+💀;I+turn+coffee+into+bugs.+☕+→+🐛;70+repos.+4+of+them+work.+Allegedly.;Professional+Googler+since+birth.+🔍;My+code+works.+I+don't+know+why.+Don't+touch+it.;Stack+Overflow+is+just+my+second+brain.+🧠;It+compiles%3F+Ship+it.+🚀;The+bug+is+a+feature.+I+decided+just+now.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square)
 
@@ -24,6 +24,12 @@ while alive:
 ```
 
 > *"It works on my machine."* — Me, always.
+
+---
+
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 [![Instagram](https://img.shields.io/badge/Instagram-rishi.r__dxb-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/rishi.r_dxb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi%20Rahul-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rishi-rahul-5a9069384/)
