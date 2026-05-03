@@ -1,69 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+turn+coffee+into+bugs...;I+mean+code.+☕;Professional+Googler.+🔍;Main+Branch+Terrorist.+🚩;Welcome+to+my+digital+basement.+🏠" alt="Typing SVG" />
-</h1>
+# Hi, I'm Rishi 👋 (please don't leave)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHdwZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxZ3RreHlxJnB2PTE/3o7TKMGpxx32LpTOf6/giphy.gif" width="250" alt="Frustrated Coding">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square" alt="Profile Views" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Half+logic%2C+half+luck.+100%25+my+problem.;I+turn+coffee+into+bugs.+%E2%98%95;70+repos.+Maybe+4+are+finished.)](https://git.io/typing-svg)
 
-<br/>
-
-### 🕵️‍♂️ Files on the Suspect
-
-I’m Rishi. I build things that sometimes work, and when they don't, I blame the API. I live at the intersection of "Why is this broken?" and "Oh, I forgot a semicolon."
-
-- 🔭 **Current Mission:** Making **Social-Spark** and **SparxSolver** sentient (hopefully they don't start with the 'Terminator' stuff).
-- 🌱 **Learning:** How to write code that my future self doesn't want to punch me for.
-- 🎮 **Game Dev:** I build stuff in **Roblox** and **Scratch**. If the physics are weird, it's a "feature," not a bug.
-- ⚡ **Fun Fact:** My GitHub streak is the only thing more unstable than my sleep schedule.
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square)
 
 ---
 
-### 🛠️ The Toolkit (How I break things)
+I build things that *sometimes* work. When they don't, I blame the API. I have 70 repositories and the audacity to call myself productive.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
+- 🔭 Working on **Social-Spark** & **SparxSolver** *(and 5 other things I shouldn't have started)*
+- 🎮 Game dev on **Roblox** & **Scratch** — the bugs are features, trust me
+- 📍 Dubai 🇦🇪 — hotter than my unhandled exceptions
 
----
-
-### 📊 My "Productivity" (Exaggerated for clout)
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Rahul&show_icons=true&theme=radical&hide_border=true" alt="Rishi's Stats" />
-    </td>
-    <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Rahul&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+[![Tech Stack](https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 🏆 Hall of Fame (Or Shame)
+```python
+while alive:
+    code()
+    blame_the_api()
+    push_to_main_directly()  # 😈
+```
 
-<div align="center">
-  <a href="https://github.com/Rishi-Rahul/social_spark1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=social_spark1&theme=radical&hide_border=true" alt="Social Spark 1" />
-  </a>
-  <a href="https://github.com/Rishi-Rahul/SparxSolver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rahul&repo=SparxSolver&theme=radical&hide_border=true" alt="SparxSolver" />
-  </a>
-</div>
+> *"It works on my machine."* — Me, always.
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
-  </picture>
-</div>
-
+[![Instagram](https://img.shields.io/badge/Instagram-rishi.r__dxb-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/rishi.r_dxb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi%20Rahul-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rishi-rahul-5a9069384/)
