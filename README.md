@@ -28,3 +28,5 @@ while alive:
 ---
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+Feel free to witness my chaos, but please, don't leave. I get lonely. 🤗🤗 (Yes, I'm in your walls.)
