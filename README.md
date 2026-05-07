@@ -6,7 +6,7 @@
 
 
 
-I build things that *sometimes* work. When they don't, I blame the API. I have 70 repositories and the audacity to call myself productive.
+I build things that *sometimes* work. When they don't, I blame the API. I have 72 repositories and the audacity to call myself productive.
 
 - 🔭 Working on **Social-Spark** & **SparxSolver** *(and 5 other things I shouldn't have started)*
 - 🎮 Game dev on **Roblox** & **Scratch** — the bugs are features, trust me
