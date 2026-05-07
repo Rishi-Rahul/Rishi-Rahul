@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Rahul&label=Witnesses%20to%20my%20Chaos&color=red&style=flat-square)
 
----
+
 
 I build things that *sometimes* work. When they don't, I blame the API. I have 70 repositories and the audacity to call myself productive.
 
@@ -14,7 +14,7 @@ I build things that *sometimes* work. When they don't, I blame the API. I have 7
 
 [![Tech Stack](https://skillicons.dev/icons?i=py,ts,js,css,html,github,vscode,git&theme=dark)](https://skillicons.dev)
 
----
+
 
 ```python
 while alive:
@@ -25,7 +25,7 @@ while alive:
 
 > *"It works on my machine."* — Me, always.
 
----
+
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
