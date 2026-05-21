@@ -20,7 +20,7 @@ Dubai 🇦🇪 - hotter than my unhandled exceptions
 while alive:
     code()
     blame_the_api()
-    push_to_main_directly()  # 😈
+    push_to_main_directly()  # 
 ```
 
 > *"It works on my machine."* — Me, always.
